@@ -1,0 +1,116 @@
+/* CMS int styles */
+
+.footer-widget1 ul,
+.footer-widget2 ul {
+    padding: 0px;
+}
+
+.footer-widget1 img {
+    max-width: 100px;
+    height: auto;
+    margin-right: 1.5rem !important;
+}
+
+.footer-widget1 li {
+    display: inline-block;
+    margin-right: 1.5rem !important;
+}
+
+.footer-widget1 li a {
+    font-size: 15px;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+    color: #6c757d !important;
+    font-weight: 400;
+}
+
+.footer-widget2 ul {
+    text-align: right !important;
+}
+
+.footer-widget2 li {
+    display: inline-block;
+    margin: 0px 10px;
+}
+
+.footer-widget2 img {
+    max-width: 15px;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+.footer-widget3 p {
+    color: #6c757d !important;
+    padding-right: 3rem !important;
+    margin: 0 !important;
+    margin-bottom: 1.5rem !important;
+}
+
+.footer-widget4 p,
+.footer-widget4 a {
+    margin: 0 !important;
+    font-size: 15px;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+    font-weight: 400;
+    color: #6c757d !important;
+}
+
+.footer-widget5 p {
+    margin: 0 !important;
+    font-size: 15px;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+    color: #6c757d !important;
+}
+
+.up-button-red a {
+    color: white !important;
+    padding: 5px 35px;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+}
+
+a:hover {
+    color: #ff0005;
+}
+
+p {
+    margin: 0;
+}
+
+/*home page custome styles*/
+
+.slider_index {
+    z-index: 999 !important;
+}
+
+.slider_mazw {
+    max-width: 150px !important;
+}
+
+.slider_textshadow {
+    text-shadow: -1px 2px 1px #000000 !important;
+}
+
+.slider_btnstyle {
+    background: #ff2228;
+    color: white;
+    padding: 5px 35px;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+/* End */
